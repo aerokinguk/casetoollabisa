@@ -1,2 +1,3 @@
 lab isa paragraph 1 
 lab isa case paragraph 2
+lab isa case tool paragraph 3 
